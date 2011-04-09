@@ -1,0 +1,12 @@
+= RUBY_GOOGLE_CHARTS -- Ruby interface to Google Charts API
+
+This is Ruby code to access the Google Chart API
+
+http://code.google.com/apis/chart/
+
+Examples can be found in examples/examples.rb (with output at example.html)
+
+No strong library requirements -- uses Erb for examples, and RSpec for
+unit tests.
+
+
